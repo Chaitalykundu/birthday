@@ -4,7 +4,7 @@
 }
 
 body {
-	background-image:url('../images/birthdaybackground.jpeg');
+	background-image:url('images/birthdaybackground.jpeg');
 	background-size:auto;
 	height: 200px;
 	background-position: center;
@@ -65,7 +65,7 @@ h1 {
 }
 
 .next {
-	background-image:url('../images/birthdaybackground.jpeg');
+	background-image:url('images/birthdaybackground.jpeg');
 	background-size:auto;
 }
 
