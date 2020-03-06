@@ -1,0 +1,78 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body {
+	background-image:url(../image/birthdaybackground.jpeg);
+	background-size:auto;
+	height: 200px;
+	background-position: center;
+	background-origin:content-box;
+	background-repeat:no-repeat;
+}
+
+h1 {
+	font-size: 60px;
+	text-align: center;
+	color: white;
+}
+
+.heading img {
+	display:inline-block;
+	vertical-align:top;
+}
+
+.aside {
+	width: 750px;
+	height:700px;
+	box-sizing:border-box;
+	display:inline-block;
+	vertical-align:middle;
+}
+
+.aside  p{
+	color: violet;
+	font-size:40px;
+	font-weight:500;
+	margin-bottom:30px;
+	padding:50px;
+}
+
+.container p{
+	color:black;
+	font-size:30px;
+}
+
+.first img {
+	
+	display:inline-block;
+	vertical-align:top;
+}
+
+.mythoughts {
+	width: 700px;
+	height:600px;
+	box-sizing:border-box;
+	display:inline-block;
+	vertical-align:middle;
+}
+.mythoughts  p{
+	color: green;
+	font-size:30px;
+	font-weight:200;
+	margin-bottom:20px;
+}
+
+.next {
+	background-image:url(../image/birthdaybackground.jpeg);
+	background-size:auto;
+}
+
+.mythoughts2 p{
+	color: violet;
+	font-size:40px;
+	font-weight:500;
+	margin-bottom:30px;
+	padding:50px;
+}
