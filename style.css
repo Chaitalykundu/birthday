@@ -4,11 +4,10 @@
 }
 
 body {
-	background:url('../images/birthdaybackground.jpeg');
+	background:url('birthdaybackground.jpeg');
 	background-size:auto;
 	height: 200px;
 	background-position: center;
-	font-family: 'Yeon Sung', cursive;
 	background-origin:content-box;
 	background-repeat:no-repeat;
 }
@@ -66,7 +65,7 @@ h1 {
 }
 
 .next {
-	background:url('../images/birthdaybackground.jpeg');
+	background-image:url(../image/birthdaybackground.jpeg);
 	background-size:auto;
 }
 
